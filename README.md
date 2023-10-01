@@ -3,6 +3,7 @@ testing
 test2 
 monday
 bjsdk
-hks
+hks 
+jsud
 updated the currency formating document
 
